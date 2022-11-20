@@ -3,7 +3,7 @@
 
 This is a testing project to check the behaviour of swift concurrency.
 
-Here is the console log after running:
+Here is the console log after running (Please make a side-by-side checking with [ContentView.swift](./TestConcurrency/ContentView.swift)):
 
 ```
 [body:16:main-thread] > 0 
